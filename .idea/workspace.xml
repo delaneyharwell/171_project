@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47c25fd4-4237-4333-815e-769b24e1c907" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Checkers_Student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Checkers_Student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/AI_Runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/AI_Runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/IOAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/RandomAI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/Communicator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/IOAI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/Network_AI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/RandomAI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/BoardClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/Checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/Communicator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/GameLogic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/ManualAI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/Move.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/StudentAI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkers-python/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;dharwell&quot;,
+      &quot;fullname&quot;: &quot;Delaney Suzanne Harwell&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.ics.uci.edu/ai-projects/Checkers_Student.git&quot;,
+    &quot;second&quot;: &quot;b6a271b7-754a-4a16-ab80-8a45ffbd578d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sdm2Aov5kWJSUdVQXyqMDb6zmL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c25fd4-4237-4333-815e-769b24e1c907" name="Changes" comment="" />
+      <created>1738793617183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738793617183</updated>
+      <workItem from="1738793618844" duration="620000" />
+      <workItem from="1738795005715" duration="110000" />
+      <workItem from="1738795159063" duration="836000" />
+      <workItem from="1738800257838" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project1$main.coverage" NAME="main Coverage Results" MODIFIED="1738793838582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/checkers-python" />
+  </component>
+</project>

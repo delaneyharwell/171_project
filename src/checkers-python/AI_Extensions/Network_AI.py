@@ -9,7 +9,7 @@ We are following the javadoc docstring format which is:
 
 from socket import *
 import sys
-sys.path.append('../')
+sys.path.append('../../')
 from BoardClasses import Move
 from time import sleep
 import threading

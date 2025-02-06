@@ -14,6 +14,7 @@ class StudentAI():
         self.color = ''
         self.opponent = {1:2,2:1}
         self.color = 2
+
     def get_move(self,move):
         if len(move) != 0:
             self.board.make_move(move,self.opponent[self.color])

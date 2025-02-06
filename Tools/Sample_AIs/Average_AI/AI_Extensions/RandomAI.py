@@ -8,7 +8,6 @@ We are following the javadoc docstring format which is:
 """
 
 from random import randint
-from BoardClasses import Move
 from BoardClasses import Board
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.

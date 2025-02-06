@@ -1,6 +1,6 @@
 import sys
 sys.path.append("../")
-from AI_Extensions.Communicator import Communicator
+from Communicator import Communicator
 from BoardClasses import Move
 
 

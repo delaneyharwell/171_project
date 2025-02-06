@@ -9,7 +9,6 @@ We are following the javadoc docstring format which is:
 
 
 import copy
-import re
 from Move import Move
 class InvalidMoveError(Exception):
     pass
@@ -74,17 +73,17 @@ class Board:
                     if i % 2:
                         # odd row, shift to the left and attach a piece to the end when needed
                         if j - 1 >= 0:
-                            self.board[i][j-1] = Checker.Checker("B", [i, j-1])
+                            self.board[i][j-1] = Checker.Checker("B", [i, j - 1])
                         if j == self.col - 2 and not self.col % 2:
-                            self.board[i][self.col-1] = Checker.Checker("B", [i,self.col-1])
+                            self.board[i][self.col-1] = Checker.Checker("B", [i, self.col - 1])
                     else:
                         # even row, shift to the right and attach a piece to the beginning when needed
                         if j + 1 <= self.col - 1:
-                            self.board[i][j+1] = Checker.Checker("B", [i,j+1])
+                            self.board[i][j+1] = Checker.Checker("B", [i, j + 1])
                         if (j == self.col - 1 or j == self.col - 2) and not self.p % 2:
-                            self.board[i][0] = Checker.Checker("B", [i,0])
+                            self.board[i][0] = Checker.Checker("B", [i, 0])
                 else:  # row,p = even,even or odd,odd
-                    self.board[i][j] = Checker.Checker("B", [i,j])
+                    self.board[i][j] = Checker.Checker("B", [i, j])
                 self.white_count += 1
                 self.black_count += 1
 
@@ -166,11 +165,11 @@ class Board:
             else:
                 for failed_capture in capture_positions:
                     # recover failed captures
-                    self.board[failed_capture[0]][failed_capture[1]] = Checker.Checker(self.opponent[turn],[failed_capture[0],failed_capture[1]])
+                    self.board[failed_capture[0]][failed_capture[1]] = Checker.Checker(self.opponent[turn], [failed_capture[0], failed_capture[1]])
                 for failed_position in past_positions:
                     # recover failed moves
-                    self.board[failed_position[0]][failed_position[1]] = Checker.Checker(".", [failed_position[0],failed_position[1]])
-                self.board[ultimate_start[0]][ultimate_start[1]] = Checker.Checker(turn, [ultimate_start[0],ultimate_start[1]])
+                    self.board[failed_position[0]][failed_position[1]] = Checker.Checker(".", [failed_position[0], failed_position[1]])
+                self.board[ultimate_start[0]][ultimate_start[1]] = Checker.Checker(turn, [ultimate_start[0], ultimate_start[1]])
                 raise InvalidMoveError
 
         temp_saved_move[0] = copy.deepcopy(move) #self.saved_move[0] = copy.deepcopy(move)
