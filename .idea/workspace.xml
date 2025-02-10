@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c25fd4-4237-4333-815e-769b24e1c907" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Checkers_Student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Checkers_Student.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/AI_Runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/AI_Runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Average_AI_368/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Good_AI_368/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Poor_AI_368/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/IOAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/IOAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/RandomAI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/RandomAI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/Sample_AIs/Random_AI/AI_Extensions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/Communicator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/IOAI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/Network_AI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/RandomAI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/AI_Extensions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/BoardClasses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/Checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/Communicator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/GameLogic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/ManualAI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/Move.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/StudentAI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkers-python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="GitLabMergeRequestFiltersHistory">{
   &quot;lastFilter&quot;: {
@@ -113,7 +77,9 @@
       <workItem from="1738793618844" duration="620000" />
       <workItem from="1738795005715" duration="110000" />
       <workItem from="1738795159063" duration="836000" />
-      <workItem from="1738800257838" duration="335000" />
+      <workItem from="1738800257838" duration="1563000" />
+      <workItem from="1738875308967" duration="312000" />
+      <workItem from="1739218333453" duration="1380000" />
     </task>
     <servers />
   </component>

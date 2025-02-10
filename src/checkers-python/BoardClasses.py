@@ -53,6 +53,18 @@ class Board:
         self.black_count = 0
         self.white_count = 0
 
+    def get_copy(self):
+        """
+        Creates a deep copy of the board, preserving its current state.
+
+        @return: A new Board object with the same state as the original.
+        """
+        new_board = Board(self.col, self.row, self.p)
+        new_board.board = copy.deepcopy(self.board)
+        new_board.tie_counter = self.tie_counter
+        new_board.black_count = self.black_count
+        new_board.white_count = self.white_count
+        return new_board
 
     def initialize_game(self):
         """

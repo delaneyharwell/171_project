@@ -30,6 +30,7 @@ class ManualAI():
         self.board.initialize_game()
         self.color = 2
         self.opponent = {1:2,2:1} # to switch turns after each turn
+
     def get_move(self,move):
         """
         get_move function for manualAI called from the gameloop in the main module.
