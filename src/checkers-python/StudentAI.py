@@ -1,4 +1,4 @@
-from random import randint
+from random import randint, choice
 from BoardClasses import Move
 from BoardClasses import Board
 #The following part should be completed by students.
@@ -16,7 +16,16 @@ class StudentAI():
         self.color = 2
 
     def simulate_random_game(self, board, player):
-        """random game to determine winner"""
+        temp_board = board.get_copy()
+        current_player = player
+        while not temp_board.is_win(self.color) and not temp_board.is_win(self.opponent[self.color]):
+            possible_moves = temp_board.get_all_possible_moves(current_player)
+            if not possible_moves:
+                break
+            move = choice(choice(possible_moves))
+            temp_board.make_move(move, current_player)
+            current_player = self.opponent[current_player]
+        return 1 if temp_board.is_win(self.color) else 0
 
     def get_move(self,move):
         if len(move) != 0:
