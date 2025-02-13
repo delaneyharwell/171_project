@@ -9,6 +9,7 @@ We are following the javadoc docstring format which is:
 
 from GameLogic import GameLogic
 import sys
+from run_simulations import runSimulations
 
 from socket import *
 def network_init():
@@ -122,3 +123,7 @@ if __name__ == "__main__":
     elif mode == 'l':
         ai_path_1,ai_path_2 =  sys.argv[5],sys.argv[6]
         main.Run(mode=mode,ai_path_1=ai_path_1,ai_path_2=ai_path_2,time=1200)
+    
+    # percentage = runSimulations(10) // UNCOMMENT TO RUN THE GAME N NUMBER OF TIMES
+    # print(f"Win + tie percentage: {percentage:.2f}%")
+
