@@ -124,6 +124,6 @@ if __name__ == "__main__":
         ai_path_1,ai_path_2 =  sys.argv[5],sys.argv[6]
         main.Run(mode=mode,ai_path_1=ai_path_1,ai_path_2=ai_path_2,time=1200)
     
-    # percentage = runSimulations(10) // UNCOMMENT TO RUN THE GAME N NUMBER OF TIMES
-    # print(f"Win + tie percentage: {percentage:.2f}%")
+    percentage = runSimulations(10) # UNCOMMENT TO RUN THE GAME N NUMBER OF TIMES
+    print(f"Win + tie percentage: {percentage:.2f}%")
 
